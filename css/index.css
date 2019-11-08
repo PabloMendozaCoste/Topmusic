@@ -1,0 +1,21 @@
+ 
+@import url(/css/banner.css);
+
+section{
+
+    widows: 50% ;
+    margin-bottom: 30px;
+}
+
+.carousel{
+    
+    margin-top: 20px;
+}
+.carousel-item{
+    text-align: center;
+    min-height: 100px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.bs-example{
+	margin: 20px;
+}
+
